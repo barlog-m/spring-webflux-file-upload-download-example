@@ -1,6 +1,6 @@
 Spring WebFlux Upload/Download example
 
-Exists of:
+Contains:
 * Controller with two endpoints: upload and download
 * Service with methods for save, load and check hash sum
 * Unit test for controller
